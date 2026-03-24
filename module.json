@@ -1,0 +1,15 @@
+{
+  "id": "dahn-image-pack",
+  "title": "Dahn : Image Pack",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Dahn the Indifferent",
+      "flags": {}
+    }
+  ]
+}
